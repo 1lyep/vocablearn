@@ -1,0 +1,5 @@
+{
+  "name": "VocabQuest - Custom Vocabulary Game",
+  "description": "A gamified vocabulary learning application where users can input their own words. The app uses AI to generate definitions, examples, and phonetics, offering Flashcard and Quiz modes.",
+  "requestFramePermissions": []
+}
